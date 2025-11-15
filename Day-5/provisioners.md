@@ -2,8 +2,8 @@ Certainly, let's delve deeper into the `file`, `remote-exec`, and `local-exec` p
 
 1. **file Provisioner:**
 
-   The `file` provisioner is used to copy files or directories from the local machine to a remote machine. This is useful for deploying configuration files, scripts, or other assets to a provisioned instance.
-
+**   The `file` provisioner is used to copy files or directories from the local machine to a remote machine. This is useful for deploying configuration files, scripts, or other assets to a provisioned instance.
+**
    Example:
 
    ```hcl
